@@ -8,3 +8,7 @@
 ## 学习时长
 
 2024/7/12 - 至今
+
+## 参考内容
+
+- Forouzan B. (2022) 计算机科学导论(Foundations of Computer Science). China Machine Press
