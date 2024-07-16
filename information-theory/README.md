@@ -20,4 +20,4 @@
 
 ## 参考内容
 
-- MIT 6.050J
+- MIT 6.050J - Information, Entropy, and Computation
