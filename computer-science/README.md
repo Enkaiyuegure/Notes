@@ -6,4 +6,6 @@
 
 ## [使用技能与工具](./practical-skills-and-tools/README.md)
 
+## [计算理论](./theory-of-computation/README.md)
+
 ## [计算机组成原理](./computer-organization-and-design/README.md)
