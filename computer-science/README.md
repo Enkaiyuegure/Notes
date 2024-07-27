@@ -8,4 +8,6 @@
 
 ## [计算理论](./theory-of-computation/README.md)
 
+## [数据库系统](./database-system/README.md)
+
 ## [计算机组成原理](./computer-organization-and-design/README.md)
